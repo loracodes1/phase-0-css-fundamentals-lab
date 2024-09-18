@@ -29,12 +29,12 @@ figure{
   padding: 20px 0;
 }
 #details {
-  overflow: hidden;
+  overflow: hidd;
 }
 #details div{
   float: left;
   background-color: red;
   text-align: center;
-  width:25%;
+  width:22%;
   padding: 20px;
 }
