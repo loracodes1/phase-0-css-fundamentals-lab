@@ -29,7 +29,7 @@ figure{
   padding: 20px 0;
 }
 #details {
-  overflow: hidd;
+  overflow: hidden;
 }
 #details div{
   float: left;
