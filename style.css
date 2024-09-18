@@ -3,12 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
-h1{
+header{
   text-align: center;
 }
-nav{
+nav>a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: pink;
+}
+figure{
+  text-align: ;
+}
+#featured-property{
   text-align: center;
 }
-img{
-
+#featured-property figcaption {
+  font: 0.8em;
+  text-align: center;
+  
+}
+#featured-property p{
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+#details {
+  overflow: hidden;
+}
+#details div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width:25%;
+  padding: 20px;
 }
